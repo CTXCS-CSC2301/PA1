@@ -1,8 +1,6 @@
 # PA1
 CSC 2301, programming assignment 1 (PA1)
 
-You should submit one assembly file for each exercise below.  They should be named PA1-1-*lastname*.s and PA1-2-*lastname*.s, where you replace *lastname* with your last name.
-
 1.  You are given a piece of code PA1-1.s that computes the equation *6x – 7*, where *x* is some integer value.  You need to modify the code to make it compute the equation *2x^2 – 5x + 3*.  The answer should be in R3 once the program finishes.  You should try various values for *x* and check your results on a calculator to make sure the program is working correctly.
 2.  You are given some starter code in PA1-2.s.  You are to do the following.
     * Call scanf to read a single integer from the user.  A scanf format string is provided for you in *in*.  See the comments in the code for what you need to do.
